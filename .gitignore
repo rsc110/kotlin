@@ -4,8 +4,8 @@
 
 # eclipse ignore
 /.settings/
-# .project
-# .classpath
+.project
+.classpath
 .mymetadata
 
 # idea ignore
