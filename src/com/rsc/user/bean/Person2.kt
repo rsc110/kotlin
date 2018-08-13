@@ -1,6 +1,6 @@
 package com.rsc.user.bean
 
-class Person2 {
+open class Person2() {
 	var name: String = "";
 	var age: Int = 0;
 	var idCard: String? = null;
