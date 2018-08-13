@@ -17,7 +17,7 @@ val getPassword = array
 
 
 fun getPassword2(): String {
-	var map = mutableListOf("");
+	var map: MutableList<String> = mutableListOf();
 	for (ax in 0 until array.size) {
 		var x = array[ax];
 		if (x >= 0 && x < a.size) {
